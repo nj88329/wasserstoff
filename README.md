@@ -3,6 +3,11 @@
 
 THIS project is build using react.js.
 
+
+### Libraries Used
+
+ChakaUi is the external library used by me for the project designs.
+
 ## Data
 
 The project visualizes the data for the wstf front end partipicipants.
